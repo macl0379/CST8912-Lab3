@@ -19,7 +19,7 @@ The configuration of the storage will also be affected by the nature of the data
 
 
 Storage account with GRS and Hot access tier - Potentially for customer account data
-![Storage Container with GRS and access tier Hot](Screenshots/Storage%20Account%20-%20GRS+Hot.png)
+![Storage Container with GRS and access tier Hot](Screenshots/Storage%20Account%20-%20GRS%20+%20Hot.png)
 
 
 Storage account with LRS and access tier Cool - Potentially used for financial reports that are required to stay in a given region
@@ -55,7 +55,7 @@ Lifecycle Management Rule moving blobs to Cool storage after 15 days of no use
 ### Cleanup
 
 Resource Group Deletion Successful
-![Resource Group Deletion Successful](Screenshots/Cleanup%20verification.png)
+![Resource Group Deletion Successful](Screenshots/Cleanup%20Verification.png)
 
 
 ## Reflections
