@@ -31,7 +31,7 @@ Storage account with LRS and access tier Cool - Potentially used for financial r
 File access is secure whether items inherit Hot, Cool or Cold configurations. Even with Hot access, tokens are required to access data even if you have the exact destination of the file. These tokens are able to take a high number of configuration but one of the more important features is time constraints. Giving time period for access greatly reduces the risk of security concerns of urls floating around.
 
 
-Storage Container with file and inherited Hot configuration
+Storage Container with file and inherited Cool configuration
 ![Storage Container with file and inherited Hot configuration](Screenshots/Container%20w:%20File.png)
 
 
